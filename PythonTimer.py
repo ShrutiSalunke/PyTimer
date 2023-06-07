@@ -1,5 +1,4 @@
-'''Create a Countdown timer in python with Start
-and Pause Button'''
+
 # Import the time module
 import time
 from tkinter import *
